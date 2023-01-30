@@ -1,0 +1,93 @@
+.color1 {color: #120907;}
+.color2 {color: #131b39;}
+.color3 {color: #2f4e8a;}
+.color4 {color: #608be2;}
+.color5 {color: #8dc1e7;}
+
+p{
+    color:#000000;
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    }
+
+body{
+    background-color: #cae9ff;
+}
+
+h1{
+    color:#ffffff;
+    font-family: Arial;
+    font-size: 60px;
+    border: 3px #131b39;
+    background-color: #021e80;
+    margin-top: 10px;
+    margin-bottom:  10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+
+summary {
+    list-style: none;
+}
+
+.details{
+    border: 3px;
+    background-color: #8dc1e7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:#021e80;
+    font-family: Helvetica;
+    font-size: 30px;
+}
+
+img {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 200px;
+    width: 200px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 50% auto;
+    vertical-align: middle;
+}
+
+.img-contacto {
+    width: 35px;
+    height: 35px;
+}
+
+.black {
+    color: #021e80;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom:  0px;
+}
+
+.item {
+    color: #000000;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom:  0px;
+}
+
+.columnas {
+    column-count:2;
+    column-gap:5px;
+    column-rule:4px;
+}
+
+.lista {
+    color: #000000;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom:  0px;
+    list-style-type:none;
+}
